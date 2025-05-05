@@ -30,8 +30,8 @@ The challenge is to build a **Integer to Alphanumeric Conversion** in Rust that:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/Silen1t/Rust-Bytes-Challenge-Issue-64-Solution-Silen1t.git
-cd Rust-Bytes-Challenge-Issue-64-Solution-Silen1t
+git clone https://github.com/Silen1t/integer-to-alphanumeric-conversion.git
+cd integer-to-alphanumeric-conversion
 ```
 
 ### 2. Build the project
