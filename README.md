@@ -1,6 +1,6 @@
 # 🦀 Rust Challenge – Integer to Alphanumeric Conversion
 
-📎 Solved from this challenge post on substack article:
+📎 Solved from this challenge post on substack:
 https://weeklyrust.substack.com/i/162337676/rust-challenge
 
 The challenge is to build a **Integer to Alphanumeric Conversion** in Rust that:
